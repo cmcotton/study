@@ -16,6 +16,6 @@ public class Premium extends Customer {
 
     public int discount(int ori) {
         
-        return ori - 3000;
+        return ori - 3500;
     }
 }
