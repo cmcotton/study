@@ -16,6 +16,8 @@ public class Golden extends Customer {
 
     public int discount(int ori) {
         
-        return ori - 1000;
+        return ori - 1500;
+        
+        
     }
 }
